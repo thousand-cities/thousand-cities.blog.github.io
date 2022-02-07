@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thousand-cities.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-02-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://thousand-cities.github.io/census/index.html</loc>
+    
+    <lastmod>2022-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://thousand-cities.github.io/friends/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -16,21 +30,7 @@
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://thousand-cities.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://thousand-cities.github.io/friends/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -58,6 +58,13 @@
   </url>
   
   <url>
+    <loc>https://thousand-cities.github.io/2021/10/08/wu-ti/</loc>
+    
+    <lastmod>2022-02-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://thousand-cities.github.io/2021/08/06/zheng-ze-biao-da-shi-xue-xi-bi-ji/</loc>
     
     <lastmod>2022-02-07</lastmod>
@@ -66,13 +73,6 @@
   
   <url>
     <loc>https://thousand-cities.github.io/2021/06/30/bi-ye-liao/</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://thousand-cities.github.io/2021/10/08/wu-ti/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -149,14 +149,14 @@
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-yong-ming-ling/</loc>
+    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-jian-wen-ti/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-jian-wen-ti/</loc>
+    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-yong-ming-ling/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -289,14 +289,14 @@
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
+    <loc>https://thousand-cities.github.io/List/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/List/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
+    <loc>https://thousand-cities.github.io/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
     
