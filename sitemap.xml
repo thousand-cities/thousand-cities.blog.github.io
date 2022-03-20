@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thousand-cities.github.io/2021/11/14/ping-dan-de-a-dong-002/</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://thousand-cities.github.io/categories/index.html</loc>
     
     <lastmod>2022-02-07</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://thousand-cities.github.io/2021/10/31/ping-dan-de-a-dong-001/</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://thousand-cities.github.io/2021/11/14/ping-dan-de-a-dong-002/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -149,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-jian-wen-ti/</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://thousand-cities.github.io/2022/01/22/git-chang-yong-ming-ling/</loc>
     
     <lastmod>2022-02-07</lastmod>
@@ -164,6 +157,13 @@
   
   <url>
     <loc>https://thousand-cities.github.io/2021/08/16/html5-xue-xi-bi-ji/</loc>
+    
+    <lastmod>2022-02-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://thousand-cities.github.io/2022/01/22/git-chang-jian-wen-ti/</loc>
     
     <lastmod>2022-02-07</lastmod>
     
@@ -319,14 +319,14 @@
 
   
   <url>
-    <loc>https://thousand-cities.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://thousand-cities.github.io/tags/Git/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/tags/Git/</loc>
+    <loc>https://thousand-cities.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -363,14 +363,14 @@
 
   
   <url>
-    <loc>https://thousand-cities.github.io/categories/CSS/</loc>
+    <loc>https://thousand-cities.github.io/categories/HTML5/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://thousand-cities.github.io/categories/HTML5/</loc>
+    <loc>https://thousand-cities.github.io/categories/CSS/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
